@@ -1,0 +1,23 @@
+{
+  "name": "first-desktop-app",
+  "version": "1.0.0",
+  "description": "My first desktop application with javascript, nodejs and electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "keywords": [
+    "desktop",
+    "application",
+    "with",
+    "javascript",
+    "nodejs",
+    "and",
+    "electron"
+  ],
+  "author": "Jewel Rana",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
