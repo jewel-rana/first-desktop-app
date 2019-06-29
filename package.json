@@ -4,7 +4,7 @@
   "description": "My first desktop application with javascript, nodejs and electron",
   "main": "main.js",
   "scripts": {
-    "test": "electron ."
+    "start": "electron ."
   },
   "keywords": [
     "desktop",
